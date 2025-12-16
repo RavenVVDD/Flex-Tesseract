@@ -1,0 +1,32 @@
+{
+    "Lunes": {
+        "Cuarto cord\u00f3n": 9,
+        "Tercer cord\u00f3n (CABA)": 2,
+        "Segundo cord\u00f3n": 1,
+        "Primer cord\u00f3n": 2
+    },
+    "Martes": {
+        "Cuarto cord\u00f3n": 1,
+        "Tercer cord\u00f3n (CABA)": 5,
+        "Primer cord\u00f3n": 5,
+        "Segundo cord\u00f3n": 2
+    },
+    "Mi\u00e9rcoles": {
+        "Primer cord\u00f3n": 6,
+        "Tercer cord\u00f3n (CABA)": 3,
+        "Segundo cord\u00f3n": 1,
+        "Cuarto cord\u00f3n": 2
+    },
+    "Jueves": {
+        "Segundo cord\u00f3n": 3,
+        "Primer cord\u00f3n": 5,
+        "Cuarto cord\u00f3n": 2,
+        "Tercer cord\u00f3n (CABA)": 2
+    },
+    "Viernes": {
+        "Segundo cord\u00f3n": 5,
+        "Tercer cord\u00f3n (CABA)": 2,
+        "Primer cord\u00f3n": 1,
+        "Cuarto cord\u00f3n": 1
+    }
+}
